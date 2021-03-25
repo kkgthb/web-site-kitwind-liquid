@@ -17,5 +17,3 @@
 # Ignore "dist", my static output folder
 /dist/
 /dist/**
-
-listfiles.py
