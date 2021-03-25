@@ -3,30 +3,29 @@
     "version": "0.0.1",
     "description": "Okay, but what does Kitwind Kometa UI look like with real data behind it?",
     "author": {
-      "name": "Katie Kodes",
-      "url": "https://katiekodes.com"
+        "name": "Katie Kodes",
+        "url": "https://katiekodes.com"
     },
     "main": ".eleventy.js",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/kkgthb/web-site-kitwind-liquid.git"
+        "type": "git",
+        "url": "https://github.com/kkgthb/web-site-kitwind-liquid.git"
     },
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "build": "npx eleventy",
-      "dev": "npx eleventy --watch --serve",
-      "develop": "npx eleventy --watch --serve",
-      "now-build": "npm run build",
-      "debug": "DEBUG=* npx eleventy"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npx eleventy",
+        "dev": "npx eleventy --watch --serve",
+        "develop": "npx eleventy --watch --serve",
+        "now-build": "npm run build",
+        "debug": "DEBUG=* npx eleventy"
     },
     "dependencies": {
-      "@11ty/eleventy": "latest",
-      "@tailwindcss/jit": "latest",
-      "autoprefixer": "latest",
-      "postcss": "latest",
-      "postcss-cli": "latest",
-      "sass": "latest",
-      "tailwindcss": "latest"
+        "@11ty/eleventy": "latest",
+        "@tailwindcss/jit": "latest",
+        "autoprefixer": "latest",
+        "postcss": "latest",
+        "postcss-cli": "latest",
+        "sass": "latest",
+        "tailwindcss": "latest"
     }
-  }
-  
+}
